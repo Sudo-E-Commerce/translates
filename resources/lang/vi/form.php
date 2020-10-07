@@ -53,6 +53,7 @@ return [
 	'choose' 				=> 'Chọn',
 	'no_data_finding' 		=> 'Không tìm thấy dữ liệu',
 	'search' 				=> 'Tìm kiếm',
+	'check_all' 			=> 'Chọn tất cả',
 
 	'menu' => [
 		'structure' 		=> 'Cấu trúc menu',

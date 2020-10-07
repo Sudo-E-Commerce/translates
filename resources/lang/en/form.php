@@ -53,6 +53,7 @@ return [
 	'choose' 				=> 'Chose',
 	'no_data_finding' 		=> 'No Data Finding',
 	'search' 				=> 'Search',
+	'check_all' 			=> 'Check All',
 
 	'menu' => [
 		'structure' 		=> 'Menu structure',
