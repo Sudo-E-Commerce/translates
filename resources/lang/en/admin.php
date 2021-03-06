@@ -122,5 +122,6 @@ return [
         'required_password'     => '"Password" is required!',
         'required_password_comfirm' => '"Password Comfirm" is required!',
         'required_equal'        => '"Password Comfirm" is not exactly!',
+        'password_old_wrong'    => '"Old Password" is not correct!',
     ],
 ];

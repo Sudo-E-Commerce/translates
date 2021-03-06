@@ -123,5 +123,6 @@ return [
         'required_password'     => 'Bạn cần nhập "Mật khẩu"!',
         'required_password_comfirm' => '"Nhập lại mật khẩu" không được để trống!',
         'required_equal'        => '"Nhập lại mật khẩu" không chính xác!',
+        'password_old_wrong'    => '"Mật khẩu cũ" không chính xác!',
     ],
 ];
