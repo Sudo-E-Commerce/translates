@@ -64,6 +64,7 @@ return [
     'role'              => [
         'name'                  => 'Role',
         'select_all'            => 'Check All',
+        'no_permission'         => 'You do not have permission to access this feature. Please contact the administrator to grant permissions!',
     ],
 
     // create and update
